@@ -4,7 +4,11 @@
 
 # LLM Internals
 
-### Prepared and maintained by the **Founder** of Outcome School: [Amit Shekhar](https://x.com/amitiitbhu)
+**Learn LLM internals step by step - from tokenization to attention to inference optimization.**
+
+---
+
+Prepared and maintained by the **Founder** of Outcome School: [Amit Shekhar](https://x.com/amitiitbhu)
 
 ---
 
