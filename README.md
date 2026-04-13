@@ -133,6 +133,28 @@ Let's get started: [Decoding Transformer Architecture](https://outcomeschool.com
 
 ---
 
+## Feed-Forward Networks in LLMs
+
+In this blog, we will learn about Feed-Forward Networks in LLMs - understanding what they are, how they work inside the Transformer architecture, why every Transformer layer needs one, and what role they play in making Large Language Models so powerful.
+
+We will cover the following:
+
+* What is a Feed-Forward Network?
+* Understanding Feed-Forward Networks with a Real-World Analogy
+* Where Does the Feed-Forward Network Sit in a Transformer?
+* How Does a Feed-Forward Network Work - Step by Step
+* The Expand-then-Contract Pattern
+* Why Does the FFN Expand and Then Contract?
+* ReLU and Activation Functions
+* What Does the Feed-Forward Network Actually Learn?
+* How Much of the Model is the Feed-Forward Network?
+* Feed-Forward Networks in Mixture of Experts
+* Why Feed-Forward Networks Are So Important
+
+Let's get started: [Feed-Forward Networks in LLMs](https://outcomeschool.com/blog/feed-forward-networks-in-llms)
+
+---
+
 ## KV Cache in LLMs
 
 In this blog, we will learn about KV Cache - where K stands for Key and V stands for Value - and why it is used in Large Language Models (LLMs) to speed up text generation.
