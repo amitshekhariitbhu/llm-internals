@@ -12,7 +12,32 @@ Prepared and maintained by the **Founder** of Outcome School: [Amit Shekhar](htt
 
 ---
 
-**Note: This series will continue to grow as I write more blogs on new topics. Keep learning.**
+**Note: This series will continue to grow as I write more blogs and create more videos on new topics. Keep learning.**
+
+---
+
+## Large Language Models (LLMs)
+
+Before diving into the internals of an LLM, it’s a good idea to first understand what an LLM actually is.
+
+In this video, we will cover the following:
+
+* LLM
+* RAG
+* MCP
+* Agent
+* Fine-tuning
+* Quantization
+
+Let's get started: [AI Engineering Explained: LLM, RAG, MCP, Agent, Fine-Tuning, Quantization](https://www.youtube.com/watch?v=lnfWvX66FUk)
+
+---
+
+## Tokenization in Large Language Models (LLMs)
+
+In this video, we will learn about Tokenization and why they are essential for Large Language Models.
+
+Let's get started: [Tokenization in Large Language Models (LLMs)](https://www.youtube.com/watch?v=sK2s9I84EVI)
 
 ---
 
@@ -252,7 +277,7 @@ Let's get started: [Harness Engineering in AI](https://outcomeschool.com/blog/ha
 
 ---
 
-## More blogs coming soon!
+## More blogs and videos coming soon!
 
 ### License
 ```
