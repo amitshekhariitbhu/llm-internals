@@ -138,6 +138,29 @@ Let's get started: [Math Behind Backpropagation](https://outcomeschool.com/blog/
 
 ---
 
+## Math Behind Cross-Entropy Loss
+
+In this blog, we will learn about the math behind Cross-Entropy Loss with a step-by-step numeric example.
+
+When we train a classification model in machine learning, the model predicts probabilities for each class. For example, given an image, the model outputs something like: "I am 70% sure this is a cat, 20% sure it is a dog, and 10% sure it is a rabbit." To train the model, we need a way to measure how wrong these predictions are compared to the true answer. This is exactly what Cross-Entropy Loss does. It is the most widely used loss function in classification tasks, and it powers the training of almost every modern AI model, including GPT, BERT, and image classifiers.
+
+We will cover the following:
+
+* The Big Picture
+* What is Cross-Entropy
+* The Cross-Entropy Loss Formula
+* Why We Take the Negative Log
+* Binary Cross-Entropy Loss
+* Categorical Cross-Entropy Loss
+* Step-by-Step Numeric Example
+* Cross-Entropy Loss for Language Models
+* The Gradient of Cross-Entropy Loss
+* Quick Summary
+
+Let's get started: [Math Behind Cross-Entropy Loss](https://outcomeschool.com/blog/math-behind-cross-entropy-loss)
+
+---
+
 ## Decoding Transformer Architecture
 
 In this blog, we will learn about the Transformer architecture by decoding it piece by piece - understanding what each component does, how they work together, and why this architecture powers every modern Large Language Model (LLM).
