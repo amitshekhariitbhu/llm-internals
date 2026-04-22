@@ -282,6 +282,29 @@ Let's get started: [Mixture of Experts Explained](https://outcomeschool.com/blog
 
 ---
 
+## Grouped Query Attention
+
+In this blog, we will learn about Grouped-Query Attention (GQA) and how it differs from Multi-Head Attention (MHA). We will also learn about Multi-Query Attention (MQA) along the way and see when to use which one.
+
+We will cover the following:
+
+* The Big Picture
+* Quick Recap: Multi-Head Attention (MHA)
+* The Problem with Multi-Head Attention
+* What is Multi-Query Attention (MQA)?
+* What is Grouped-Query Attention (GQA)?
+* How Grouped-Query Attention Works
+* GQA is a Generalization of MHA and MQA
+* GQA vs MHA vs MQA
+* Real-World Use Cases
+* A Note on Terminology
+* Uptraining: Converting MHA to GQA
+* Quick Summary
+
+Let's get started: [Grouped Query Attention](https://outcomeschool.com/blog/grouped-query-attention)
+
+---
+
 ## Harness Engineering in AI
 
 In this blog, we will learn about Harness Engineering in AI. We will understand what a harness is, why we need it, and how it is used in AI Agents and evaluation systems.
