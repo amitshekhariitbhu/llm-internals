@@ -305,6 +305,27 @@ Let's get started: [Grouped Query Attention](https://outcomeschool.com/blog/grou
 
 ---
 
+## Math Behind RoPE (Rotary Position Embedding)
+
+In this blog, we will learn about the math behind Rotary Position Embedding (RoPE) and why it is used in modern Large Language Models.
+
+We will cover the following:
+
+* The Big Picture
+* Why a Transformer Needs Position Information
+* Older Approaches and Their Problems
+* The Core Idea Behind RoPE
+* The 2D Rotation Math
+* How RoPE Is Applied to Q and K
+* Why the Dot Product Captures Relative Position
+* A Small Numeric Example
+* Real-World Use Cases
+* Quick Summary
+
+Let's get started: [Math Behind RoPE (Rotary Position Embedding)](https://outcomeschool.com/blog/math-behind-rope-rotary-position-embedding)
+
+---
+
 ## Harness Engineering in AI
 
 In this blog, we will learn about Harness Engineering in AI. We will understand what a harness is, why we need it, and how it is used in AI Agents and evaluation systems.
