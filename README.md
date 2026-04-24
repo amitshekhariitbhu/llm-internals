@@ -326,6 +326,26 @@ Let's get started: [Math Behind RoPE (Rotary Position Embedding)](https://outcom
 
 ---
 
+## LoRA: Low-Rank Adaptation of LLMs
+
+In this blog, we will learn about LoRA - Low-Rank Adaptation of Large Language Models.
+
+We will cover the following:
+
+* The Big Picture
+* Why Full Fine-Tuning Is Expensive
+* The Core Idea Behind LoRA
+* How LoRA Works Step by Step
+* A Small Numeric Example
+* Where LoRA Is Applied in a Transformer
+* Merging LoRA Back Into the Model
+* Real-World Use Cases
+* Quick Summary
+
+Let's get started: [LoRA: Low-Rank Adaptation of LLMs](https://outcomeschool.com/blog/lora-low-rank-adaptation-of-llms)
+
+---
+
 ## Harness Engineering in AI
 
 In this blog, we will learn about Harness Engineering in AI. We will understand what a harness is, why we need it, and how it is used in AI Agents and evaluation systems.
