@@ -346,6 +346,30 @@ Let's get started: [LoRA: Low-Rank Adaptation of LLMs](https://outcomeschool.com
 
 ---
 
+## Decoding DeepSeek-V4
+
+In this blog, we will learn about DeepSeek-V4, the new family of open Mixture-of-Experts language models that natively supports a one-million-token context with dramatically lower inference cost.
+
+DeepSeek-V4 makes one-million-token context roughly a tenth as expensive as it was in DeepSeek-V3.2. It introduces a new attention design, a new way of doing residual connections, a new optimizer, and a new post-training pipeline. We will decode each of these one by one.
+
+We will cover the following:
+
+* The Big Picture
+* Two Models: DeepSeek-V4-Pro and DeepSeek-V4-Flash
+* Hybrid Attention with CSA and HCA
+* Manifold-Constrained Hyper-Connections (mHC)
+* Muon Optimizer
+* FP4 Quantization-Aware Training
+* Pre-Training
+* Post-Training: Specialist Training and On-Policy Distillation
+* Reasoning Modes
+* Putting It All Together
+* Quick Summary
+
+Let's get started: [Decoding DeepSeek-V4](https://outcomeschool.com/blog/decoding-deepseek-v4)
+
+---
+
 ## Harness Engineering in AI
 
 In this blog, we will learn about Harness Engineering in AI. We will understand what a harness is, why we need it, and how it is used in AI Agents and evaluation systems.
