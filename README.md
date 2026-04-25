@@ -326,6 +326,26 @@ Let's get started: [Math Behind RoPE (Rotary Position Embedding)](https://outcom
 
 ---
 
+## RMSNorm (Root Mean Square Layer Normalization)
+
+In this blog, we will learn about RMSNorm, a faster and simpler alternative to Layer Normalization that powers most modern Large Language Models like Llama, Mistral, Gemma, Qwen, PaLM, and DeepSeek.
+
+We will cover the following:
+
+* Why normalization is needed in deep networks
+* A quick recap of Layer Normalization (LayerNorm)
+* What RMSNorm is and how it works
+* The math behind RMSNorm with a concrete numeric example
+* LayerNorm vs RMSNorm - the key differences
+* Why modern LLMs prefer RMSNorm
+* A code example
+* Where RMSNorm fits in a Transformer
+* Quick Summary
+
+Let's get started: [RMSNorm (Root Mean Square Layer Normalization)](https://outcomeschool.com/blog/rmsnorm-root-mean-square-layer-normalization)
+
+---
+
 ## LoRA: Low-Rank Adaptation of LLMs
 
 In this blog, we will learn about LoRA - Low-Rank Adaptation of Large Language Models.
