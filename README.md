@@ -263,6 +263,27 @@ Let's get started: [Decoding Flash Attention in LLMs](https://outcomeschool.com/
 
 ---
 
+## Speculative Decoding
+
+In this blog, we will learn about Speculative Decoding - what it is, why LLM generation is slow without it, how a small draft model and a big target model work together to produce tokens faster, the rejection sampling math that guarantees no quality loss, real numbers showing the 2x to 3x speedup, where it is used in production, and the trade-offs to watch out for.
+
+We will cover the following:
+
+* What problem does Speculative Decoding solve?
+* The Big Picture
+* Why is LLM generation slow?
+* The core idea behind Speculative Decoding
+* Step-by-step walkthrough
+* The verification step
+* Real numbers and speedup
+* Where it is used
+* Trade-offs
+* Quick Summary
+
+Let's get started: [Speculative Decoding](https://outcomeschool.com/blog/speculative-decoding)
+
+---
+
 ## Mixture of Experts Explained
 
 In this blog, we will learn about the Mixture of Experts (MoE) architecture - understanding what experts are, how the router picks them, why MoE makes large models faster and cheaper, and why it powers many of today's most powerful Large Language Models (LLMs).
