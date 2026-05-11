@@ -284,6 +284,30 @@ Let's get started: [Speculative Decoding](https://outcomeschool.com/blog/specula
 
 ---
 
+## Continuous Batching in LLMs
+
+In this blog, we will learn about Continuous Batching, a technique that lets LLM servers handle many more users at the same time by keeping the GPU busy at every single step of generation.
+
+We will cover the following:
+
+* The Big Picture
+* Quick Recap: How an LLM Generates Tokens
+* Why Batching Matters for LLMs
+* The Old Way: Static Batching
+* The Problem with Static Batching
+* What is Continuous Batching?
+* The Ride-Share Analogy
+* How Continuous Batching Works Step by Step
+* A Numeric Example
+* Real Numbers and Speedup
+* Benefits of Continuous Batching
+* A Few Important Notes
+* Quick Summary
+
+Let's get started: [Continuous Batching in LLMs](https://outcomeschool.com/blog/continuous-batching-in-llms)
+
+---
+
 ## Mixture of Experts Explained
 
 In this blog, we will learn about the Mixture of Experts (MoE) architecture - understanding what experts are, how the router picks them, why MoE makes large models faster and cheaper, and why it powers many of today's most powerful Large Language Models (LLMs).
