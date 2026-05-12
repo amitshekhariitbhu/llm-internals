@@ -411,6 +411,28 @@ Let's get started: [LoRA: Low-Rank Adaptation of LLMs](https://outcomeschool.com
 
 ---
 
+## Large Reasoning Models (LRMs)
+
+In this blog, we will learn about Large Reasoning Models (LRMs), how they are different from standard Large Language Models, how they think before they answer, how they are trained, and when we must use them.
+
+We will cover the following:
+
+* The Big Picture
+* What is a Large Reasoning Model (LRM)?
+* LLM vs LRM
+* How does an LRM actually think?
+* Test-time compute: thinking longer makes them smarter
+* How are LRMs trained?
+* Input and Output: training phase vs prediction phase
+* When to use an LRM, and when to use a regular LLM
+* Popular LRMs we should know
+* Common Mistakes when using LRMs
+* Quick Summary
+
+Let's get started: [Large Reasoning Models (LRMs)](https://outcomeschool.com/blog/large-reasoning-models)
+
+---
+
 ## Decoding DeepSeek-V4
 
 In this blog, we will learn about DeepSeek-V4, the new family of open Mixture-of-Experts language models that natively supports a one-million-token context with dramatically lower inference cost.
