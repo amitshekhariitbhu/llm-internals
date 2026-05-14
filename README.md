@@ -433,6 +433,29 @@ Let's get started: [Large Reasoning Models (LRMs)](https://outcomeschool.com/blo
 
 ---
 
+## Reinforcement Learning from Human Feedback (RLHF)
+
+In this blog, we will learn about Reinforcement Learning from Human Feedback (RLHF), the training technique that turns a raw pre-trained LLM into a helpful, honest, and safe assistant by teaching it from human preferences.
+
+We will cover the following:
+
+* What is RLHF
+* Why we need RLHF
+* The Big Picture
+* Stage 1: Supervised Fine-Tuning (SFT)
+* Stage 2: Training the Reward Model
+* Stage 3: RL Fine-Tuning with PPO
+* The KL Penalty
+* Putting It All Together
+* Reward Hacking
+* Common Mistakes
+* Best Practices
+* Quick Summary
+
+Let's get started: [Reinforcement Learning from Human Feedback (RLHF)](https://outcomeschool.com/blog/reinforcement-learning-from-human-feedback-rlhf)
+
+---
+
 ## Decoding DeepSeek-V4
 
 In this blog, we will learn about DeepSeek-V4, the new family of open Mixture-of-Experts language models that natively supports a one-million-token context with dramatically lower inference cost.
