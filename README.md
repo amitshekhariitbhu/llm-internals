@@ -203,6 +203,23 @@ Let's get started: [Feed-Forward Networks in LLMs](https://outcomeschool.com/blo
 
 ---
 
+## Batch Normalization vs Layer Normalization
+
+In this blog, we are going to learn about Batch Normalization vs Layer Normalization. We will also see how Batch Normalization and Layer Normalization differ from each other and when to use which one.
+
+We will cover the following:
+
+- What is Normalization?
+- Why do we need Normalization?
+- What is Batch Normalization?
+- What is Layer Normalization?
+- Batch Normalization vs Layer Normalization
+- When to use which one?
+
+Let's get started: [Batch Normalization vs Layer Normalization](https://outcomeschool.com/blog/batch-normalization-vs-layer-normalization)
+
+---
+
 ## KV Cache in LLMs
 
 In this blog, we will learn about KV Cache - where K stands for Key and V stands for Value - and why it is used in Large Language Models (LLMs) to speed up text generation.
