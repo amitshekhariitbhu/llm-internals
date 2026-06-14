@@ -325,6 +325,27 @@ Let's get started: [Continuous Batching in LLMs](https://outcomeschool.com/blog/
 
 ---
 
+## Prompt Caching
+
+In this blog, we will learn about how Prompt Caching works. We will also see why we need it, how it actually works inside a large language model, and where it is used in real systems like AI assistants and agents.
+
+We will cover the following:
+
+* What is a prompt
+* A quick recap of how an LLM reads a prompt
+* What is Prompt Caching
+* Why we need Prompt Caching
+* The core idea behind Prompt Caching
+* The exact-prefix rule
+* Cache write vs cache read and TTL
+* What we should put in the cache
+* The benefits of Prompt Caching
+* Prompt Caching in the real world
+
+Let's get started: [How does Prompt Caching work?](https://outcomeschool.com/blog/how-does-prompt-caching-work)
+
+---
+
 ## Mixture of Experts Explained
 
 In this blog, we will learn about the Mixture of Experts (MoE) architecture - understanding what experts are, how the router picks them, why MoE makes large models faster and cheaper, and why it powers many of today's most powerful Large Language Models (LLMs).
