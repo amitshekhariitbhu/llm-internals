@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="AI Engineering Interview Questions and Answers" src="https://github.com/amitshekhariitbhu/llm-internals/blob/main/assets/banner.png">
+    <img alt="LLM Internals" src="https://github.com/amitshekhariitbhu/llm-internals/blob/main/assets/banner.png">
 </p>
 
 # LLM Internals
