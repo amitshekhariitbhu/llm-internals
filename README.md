@@ -346,6 +346,29 @@ Let's get started: [How does Prompt Caching work?](https://outcomeschool.com/blo
 
 ---
 
+## Prefill vs Decode: LLM Inference Optimization
+
+In this blog, we will learn about Prefill vs Decode, the two phases of LLM inference, and how understanding them helps us optimize the speed of an LLM. We will also see how the prefill and decode phases work, how the KV cache connects them, how they differ and when to use which one based on our use case, and how we optimize each phase to make an LLM faster.
+
+We will cover the following:
+
+* What is LLM inference
+* The two phases: Prefill and Decode
+* Prefill explained in simple words
+* Decode explained in simple words
+* A diagram of the two phases and the KV cache flow
+* The KV cache as the bridge between the two phases
+* A step-by-step walkthrough of a few decode steps
+* Prefill vs Decode comparison table
+* Why this split matters: compute-bound vs memory-bound
+* The key metrics: TTFT, TPOT, throughput, and end-to-end latency
+* Optimization techniques mapped to each phase
+* Conclusion
+
+Let's get started: [Prefill vs Decode: LLM Inference Optimization](https://outcomeschool.com/blog/prefill-vs-decode-llm-inference-optimization)
+
+---
+
 ## Mixture of Experts Explained
 
 In this blog, we will learn about the Mixture of Experts (MoE) architecture - understanding what experts are, how the router picks them, why MoE makes large models faster and cheaper, and why it powers many of today's most powerful Large Language Models (LLMs).
