@@ -541,6 +541,32 @@ Let's get started: [Decoding DeepSeek-V4](https://outcomeschool.com/blog/decodin
 
 ---
 
+## Prompt Injection in LLMs
+
+In this blog, we will learn about Prompt Injection in Large Language Models. We will also see why it happens, how an attacker uses it, why the obvious fixes fail, and how we can defend our AI applications against it in the real world.
+
+We will cover the following:
+
+* The system prompt and the user prompt
+* What is Prompt Injection
+* The root cause of Prompt Injection
+* A simple example of Prompt Injection
+* Direct Prompt Injection
+* Indirect Prompt Injection
+* A step-by-step walkthrough of a real attack
+* A code example of how the attack sneaks in
+* Prompt Injection vs Jailbreaking
+* Why Prompt Injection is not like SQL Injection
+* What an attacker can achieve
+* The defenses, one approach at a time
+* A defense checklist
+* How to test our own application
+* Why this problem is still not solved
+
+Let's get started: [Prompt Injection in LLMs](https://outcomeschool.com/blog/prompt-injection-in-llms)
+
+---
+
 ## Harness Engineering in AI
 
 In this blog, we will learn about Harness Engineering in AI. We will understand what a harness is, why we need it, and how it is used in AI Agents and evaluation systems.
