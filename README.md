@@ -567,6 +567,53 @@ Let's get started: [Prompt Injection in LLMs](https://outcomeschool.com/blog/pro
 
 ---
 
+## The Lost in the Middle Problem in LLMs
+
+In this blog, we will learn about the Lost in the Middle problem in LLMs, the strange behaviour where a model reads a very long text, uses the beginning and the end very well, and quietly ignores whatever is sitting in the middle. We will also see what a context window really means, how the accuracy forms a U-shaped curve, why the middle gets forgotten, how this silently breaks RAG systems and long conversations, how we can test our own model for it, and what we can do to fix it.
+
+We will cover the following:
+
+* What is a context window
+* What is the Lost in the Middle problem
+* Let's understand it with an example
+* The U-shaped curve
+* Why does this happen
+* Where this hurts us in real life
+* How to test for the Lost in the Middle problem
+* How to solve the Lost in the Middle problem
+* Key points to remember
+
+Let's get started: [The Lost in the Middle Problem in LLMs](https://outcomeschool.com/blog/lost-in-the-middle-problem-in-llms)
+
+---
+
+## How Does LLM Watermarking Work?
+
+In this blog, we will learn about how LLM watermarking works, the hidden signal that a model quietly leaves inside the text it writes. We will also see why we need it, how an LLM picks one token at a time, how a secret key silently changes those choices without touching the meaning, how a detector finds that hidden pattern later, why the quality of the text does not break, how it is different from an AI text detector, and where it works well and where it fails.
+
+We will cover the following:
+
+* What is a watermark?
+* Why do we need a watermark in LLM-generated text?
+* How does an LLM write text?
+* How does an LLM choose the next word?
+* The hidden freedom that makes watermarking possible
+* Here comes the secret key into the picture
+* Preferred tokens and other tokens
+* Slightly changing the probabilities
+* Why the preferred set keeps changing
+* One token vs thousands of tokens
+* How does the detection work?
+* How is this different from an AI text detector?
+* Why the quality of the text does not break
+* What happens when someone edits the text?
+* Where is LLM watermarking used in the real world?
+* Advantages and disadvantages of LLM watermarking
+
+Let's get started: [How Does LLM Watermarking Work?](https://outcomeschool.com/blog/how-does-llm-watermarking-work)
+
+---
+
 ## Harness Engineering in AI
 
 In this blog, we will learn about Harness Engineering in AI. We will understand what a harness is, why we need it, and how it is used in AI Agents and evaluation systems.
