@@ -301,6 +301,27 @@ Let's get started: [Speculative Decoding](https://outcomeschool.com/blog/specula
 
 ---
 
+## Decoding Medusa
+
+In this blog, we will learn about Medusa, a simple way to make a language model generate text 2 to 3 times faster by giving it several extra heads that guess multiple future tokens at once.
+
+We will cover the following:
+
+* What is Medusa
+* Why text generation is slow
+* A quick recap of speculative decoding
+* The problem with needing a draft model
+* The big idea: many heads on one model
+* How tree attention checks many guesses at once
+* The math behind the speedup with small numbers
+* The results
+* How Medusa lives on today
+* Quick Summary
+
+Let's get started: [Decoding Medusa](https://outcomeschool.com/blog/decoding-medusa)
+
+---
+
 ## Continuous Batching in LLMs
 
 In this blog, we will learn about Continuous Batching, a technique that lets LLM servers handle many more users at the same time by keeping the GPU busy at every single step of generation.
