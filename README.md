@@ -41,6 +41,30 @@ Let's get started: [Tokenization in Large Language Models (LLMs)](https://www.yo
 
 ---
 
+## Tokenization in LLMs
+
+In this blog, we will learn about Tokenization in LLMs, the very first step that turns our text into numbers before a Large Language Model can process it. We will also see what a token is, the three approaches to break text into tokens, how BPE works, how tokens are decoded back to text, and how tokenization affects LLMs in practice.
+
+We will cover the following:
+
+* What is Tokenization?
+* Why do we need Tokenization?
+* What is a Token?
+* Approach 1: Character-level Tokenization
+* Approach 2: Word-level Tokenization
+* Approach 3: Subword-level Tokenization
+* How does Byte Pair Encoding (BPE) work?
+* Vocabulary and Token IDs
+* Decoding: From Tokens back to Text
+* Tokenization in action with code
+* Special Tokens
+* How Tokenization affects LLMs in practice
+* Where it works well and where it fails
+
+Let's get started: [Tokenization in LLMs](https://outcomeschool.com/blog/tokenization-in-llms)
+
+---
+
 
 ## Byte Pair Encoding in LLMs
 
