@@ -228,6 +228,24 @@ Let's get started: [Math Behind Cross-Entropy Loss](https://outcomeschool.com/bl
 
 ---
 
+## What are Log Probabilities (Logprobs) in LLMs?
+
+In this blog, we will learn about Log Probabilities (Logprobs) in LLMs, the log of the probability that the model gives to each token it can write next. They tell us how sure the LLM was about every token it picked.
+
+We will cover the following:
+
+* How an LLM picks the next token
+* What is a log?
+* What are Log Probabilities (Logprobs)?
+* Why do we use logprobs?
+* Probability of a full sentence
+* Top logprobs
+* Where are logprobs used?
+
+Let's get started: [What are Log Probabilities (Logprobs) in LLMs?](https://outcomeschool.com/blog/logprobs-in-llms)
+
+---
+
 ## Decoding Transformer Architecture
 
 In this blog, we will learn about the Transformer architecture by decoding it piece by piece - understanding what each component does, how they work together, and why this architecture powers every modern Large Language Model (LLM).
