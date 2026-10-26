@@ -620,6 +620,30 @@ Let's get started: [Large Reasoning Models (LRMs)](https://outcomeschool.com/blo
 
 ---
 
+## How does Pretraining work?
+
+In this blog, we will learn about how pretraining works. We will also see what simple game the model plays during pretraining, where the training text comes from and how it is cleaned, how the model learns from its mistakes, why it needs so much data and computing power, what we get at the end of pretraining, and how pretraining is different from the stages that come after it.
+
+We will cover the following:
+
+* What is Pretraining?
+* Why is it called "pre" training?
+* The simple game: predict the next word
+* Why no human labels are needed
+* Step 1: Collecting the text
+* Step 2: Cleaning the text
+* Step 3: Breaking text into tokens
+* Step 4: The training loop
+* A tiny example of learning from a mistake
+* Why does pretraining need so much data and compute?
+* What do we get after pretraining?
+* What comes after pretraining?
+* Pretraining vs Fine-tuning
+
+Let's get started: [How does Pretraining work?](https://outcomeschool.com/blog/llm-pretraining)
+
+---
+
 ## Reinforcement Learning from Human Feedback (RLHF)
 
 In this blog, we will learn about Reinforcement Learning from Human Feedback (RLHF), the training technique that turns a raw pre-trained LLM into a helpful, honest, and safe assistant by teaching it from human preferences.
