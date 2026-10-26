@@ -310,6 +310,30 @@ Let's get started: [Feed-Forward Networks in LLMs](https://outcomeschool.com/blo
 
 ---
 
+## How does SwiGLU work?
+
+In this blog, we will learn about how SwiGLU works. We will also see where it sits inside a Transformer, what an activation function is, how ReLU, Sigmoid, and Swish work, what a gate and a Gated Linear Unit are, how they join together to make SwiGLU, and why models like LLaMA use it.
+
+We will cover the following:
+
+* Where does SwiGLU live inside an LLM?
+* What is a feed-forward network?
+* What is an activation function?
+* What is ReLU?
+* What is Sigmoid?
+* What is Swish?
+* What is a gate?
+* What is a Gated Linear Unit (GLU)?
+* Putting it together: SwiGLU = Swish + GLU
+* A step-by-step example with numbers
+* SwiGLU in code
+* Why does SwiGLU work better?
+* ReLU vs GELU vs SwiGLU
+
+Let's get started: [How does SwiGLU work?](https://outcomeschool.com/blog/swiglu)
+
+---
+
 ## Batch Normalization vs Layer Normalization
 
 In this blog, we are going to learn about Batch Normalization vs Layer Normalization. We will also see how Batch Normalization and Layer Normalization differ from each other and when to use which one.
