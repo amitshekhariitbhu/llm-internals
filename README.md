@@ -675,6 +675,25 @@ Let's get started: [Prompt Injection in LLMs](https://outcomeschool.com/blog/pro
 
 ---
 
+## How does the Context Window work?
+
+In this blog, we will learn about how the Context Window works in Large Language Models. We will also see why we need it, what tokens are, how the model reads everything inside it, what happens when it gets full, how to manage it, and the common mistakes we must avoid.
+
+We will cover the following:
+
+* What is a Context Window?
+* Why do we need a Context Window?
+* What are tokens?
+* How does the model read the Context Window?
+* A step-by-step walkthrough of a conversation
+* What happens when the Context Window gets full?
+* How to manage the Context Window
+* Common mistakes while using the Context Window
+
+Let's get started: [How does the Context Window work?](https://outcomeschool.com/blog/context-window)
+
+---
+
 ## The Lost in the Middle Problem in LLMs
 
 In this blog, we will learn about the Lost in the Middle problem in LLMs, the strange behaviour where a model reads a very long text, uses the beginning and the end very well, and quietly ignores whatever is sitting in the middle. We will also see what a context window really means, how the accuracy forms a U-shaped curve, why the middle gets forgotten, how this silently breaks RAG systems and long conversations, how we can test our own model for it, and what we can do to fix it.
