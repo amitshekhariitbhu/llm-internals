@@ -644,6 +644,31 @@ Let's get started: [How does Pretraining work?](https://outcomeschool.com/blog/l
 
 ---
 
+## How does Instruction Tuning work?
+
+In this blog, we will learn about how instruction tuning works. We will also see what problem a base model has, what an instruction dataset looks like and where it comes from, how the examples are formatted with a chat template, how the actual training happens step by step, why the model learns only from the answer part, and how it fits with the other training stages of an LLM.
+
+We will cover the following:
+
+* What is a base model?
+* The problem with a base model
+* What is Instruction Tuning?
+* What does an instruction dataset look like?
+* Where do the examples come from?
+* Step 1: Formatting with a chat template
+* Step 2: Training on the examples
+* Step 3: Learning only from the answer
+* A complete walkthrough with one example
+* Why does instruction tuning work so well?
+* Quality matters more than quantity
+* Base model vs Instruction-tuned model
+* Where instruction tuning fits in the full pipeline
+* Limitations of instruction tuning
+
+Let's get started: [How does Instruction Tuning work?](https://outcomeschool.com/blog/instruction-tuning)
+
+---
+
 ## Reinforcement Learning from Human Feedback (RLHF)
 
 In this blog, we will learn about Reinforcement Learning from Human Feedback (RLHF), the training technique that turns a raw pre-trained LLM into a helpful, honest, and safe assistant by teaching it from human preferences.
