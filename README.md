@@ -740,6 +740,27 @@ Let's get started: [Decoding DeepSeek-V4](https://outcomeschool.com/blog/decodin
 
 ---
 
+## How does the System Prompt work?
+
+In this blog, we will learn about how the System Prompt works. We will also see the three roles in a chat with an LLM, how the system prompt is joined with our messages before the LLM reads them, why the LLM gives it extra importance, why it must be sent again on every request, how to write a good one, and where it works well and where it fails.
+
+We will cover the following:
+
+* What is a System Prompt?
+* The three roles in a chat
+* A simple example
+* How does the System Prompt work behind the scenes?
+* Why does the LLM follow the System Prompt?
+* The System Prompt is sent every time
+* System Prompt in code
+* What do we put inside a System Prompt?
+* Limitations of the System Prompt
+* System Prompt vs User Prompt
+
+Let's get started: [How does the System Prompt work?](https://outcomeschool.com/blog/system-prompt)
+
+---
+
 ## Prompt Injection in LLMs
 
 In this blog, we will learn about Prompt Injection in Large Language Models. We will also see why it happens, how an attacker uses it, why the obvious fixes fail, and how we can defend our AI applications against it in the real world.
