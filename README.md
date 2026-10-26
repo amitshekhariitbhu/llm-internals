@@ -246,6 +246,28 @@ Let's get started: [What are Log Probabilities (Logprobs) in LLMs?](https://outc
 
 ---
 
+## How does Constrained Decoding work?
+
+In this blog, we will learn about how Constrained Decoding works, a way of forcing an LLM to only pick tokens that follow a fixed set of rules, like a valid JSON format. We will also see how a mask blocks the wrong tokens at every step and how rules like JSON and regex are turned into a small state machine.
+
+We will cover the following:
+
+* What is decoding in an LLM?
+* The problem: LLMs do not always follow the format
+* What is Constrained Decoding?
+* The core idea: masking the wrong tokens
+* A step-by-step example
+* How do the rules become a state machine?
+* Constrained Decoding for JSON
+* The tricky part: tokens are not characters
+* Constrained Decoding in code
+* Constrained Decoding vs asking in the prompt
+* Where it works well and where it fails
+
+Let's get started: [How does Constrained Decoding work?](https://outcomeschool.com/blog/constrained-decoding)
+
+---
+
 ## Decoding Transformer Architecture
 
 In this blog, we will learn about the Transformer architecture by decoding it piece by piece - understanding what each component does, how they work together, and why this architecture powers every modern Large Language Model (LLM).
