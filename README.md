@@ -644,6 +644,30 @@ Let's get started: [How does Pretraining work?](https://outcomeschool.com/blog/l
 
 ---
 
+## What are the Chinchilla scaling laws?
+
+In this blog, we will learn about the Chinchilla scaling laws. We will also see what a scaling law is, what the older belief before Chinchilla was, how DeepMind ran the experiments, the "20 tokens per parameter" rule with a step-by-step calculation, how the smaller Chinchilla model beat much bigger models, and where teams go beyond the Chinchilla rule today.
+
+We will cover the following:
+
+* The three ingredients: parameters, tokens, and compute
+* What is a scaling law?
+* The problem: we have a fixed budget
+* The belief before Chinchilla
+* What did the Chinchilla paper do?
+* The main finding: grow both equally
+* The 20 tokens per parameter rule
+* Chinchilla vs Gopher: the proof
+* A step-by-step calculation
+* The Chinchilla formula
+* Why were the earlier models undertrained?
+* What changed after Chinchilla?
+* Limitations of the Chinchilla scaling laws
+
+Let's get started: [What are the Chinchilla scaling laws?](https://outcomeschool.com/blog/chinchilla-scaling-laws)
+
+---
+
 ## How does Instruction Tuning work?
 
 In this blog, we will learn about how instruction tuning works. We will also see what problem a base model has, what an instruction dataset looks like and where it comes from, how the examples are formatted with a chat template, how the actual training happens step by step, why the model learns only from the answer part, and how it fits with the other training stages of an LLM.
